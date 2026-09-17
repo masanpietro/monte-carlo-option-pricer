@@ -57,7 +57,7 @@ signature of a correct, unbiased estimator.)
 ## Build & run
 
 ```bash
-g++ -std=c++17 -O2 monte_carlo.cpp -o mc_pricer
+g++ -std=c++17 -O2 MonteCarlo.cpp -o mc_pricer
 ./mc_pricer
 ```
 
